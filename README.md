@@ -1,3 +1,19 @@
+# Node.js & Express.js for Hackers 101 Notes
+
+**Made with ❤️ by Enoch**
+
+Welcome to **Node.js & Express.js for Hackers 101 Notes**, a comprehensive guide designed to provide a solid foundation in Node.js and Express.js from a security perspective. This project is geared towards beginners and security enthusiasts who want to dive deeper into backend technologies and understand the nuances of web application security.
+
+## What You’ll Learn
+
+- **Basics of Node.js**: Understand the core concepts of Node.js, its asynchronous nature, and how it differs from traditional server-side technologies.
+- **Express.js Fundamentals**: Learn about Express.js, the de facto standard for Node.js web applications, and how to create robust and scalable web servers.
+- **Practical Examples**: Explore real-world examples and code snippets that illustrate key concepts and best practices.
+
+## Why This Project?
+
+This project was created to help bridge the gap between theoretical knowledge and practical application. As a security enthusiast, I’ve compiled these notes to provide a beginner-friendly yet detailed resource for anyone interested in web and application security. My goal is to make these concepts accessible and easy to understand, ensuring that you can apply them effectively in your own projects.
+
 # PREREQUISITES
 
 Before delving into advanced JavaScript topics such as Node.js and Express.js, it is essential to establish a strong foundation in fundamental JavaScript concepts. This will not only enhance your comprehension of these advanced topics but also streamline the learning process.
